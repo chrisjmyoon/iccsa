@@ -83,3 +83,19 @@ The 7-point Criteria Evaluation Database is available from Simon Fraser Universi
 The PH2 dataset can be downloaded from:
 
 * https://www.fc.up.pt/addi/ph2%20database.html
+
+
+## Citation
+This is the code corresponding to our MICCAI 2019 paper, 
+
+*Chris Yoon, Ghassan Hamarneh, and Rafeef Garbi*. [Generalizable Feature Learning in the Presence of Data Bias and Domain Class Imbalance with Application to Skin Lesion Classification](https://www.springerprofessional.de/en/generalizable-feature-learning-in-the-presence-of-data-bias-and-/17255502). In *Lecture Notes in Computer Science, Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, volume 11767, pages 365-373, 2019.
+
+```
+@InProceedings{Yoon_2019_MICCAI,
+author = {Yoon, Chris and Hamarneh, Ghassan and Garbi, Rafeef},
+title = {Generalizable Feature Learning in the Presence of Data Bias and Domain Class Imbalance with Application to Skin Lesion Classification},
+booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+month = {October},
+year = {2019}
+}
+```
